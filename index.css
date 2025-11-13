@@ -1,0 +1,28 @@
+.margin{
+      display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: #a1f5f8;
+  padding: 15px 40px;
+   
+}
+.logo {
+  margin-left:30px;
+  nav-right: left;
+
+}
+.head a{ 
+    text-decoration: none;
+  color: rgb(4, 42, 76);
+  font-weight: bold;
+  margin-left: 25px;
+}
+.head a:hover{
+    color:rgb(155, 166, 240)
+}
+product {
+  width: 250px;
+  height:250px;
+  padding: ;
+  
+}
